@@ -1,0 +1,10 @@
+c:\users\yash\documents\visual studio 2012\Projects\FinalApp\FinalApp\bin\Debug\FinalApp.exe.config
+c:\users\yash\documents\visual studio 2012\Projects\FinalApp\FinalApp\bin\Debug\FinalApp.exe
+c:\users\yash\documents\visual studio 2012\Projects\FinalApp\FinalApp\bin\Debug\FinalApp.pdb
+c:\users\yash\documents\visual studio 2012\Projects\FinalApp\FinalApp\obj\Debug\FinalApp.csprojResolveAssemblyReference.cache
+c:\users\yash\documents\visual studio 2012\Projects\FinalApp\FinalApp\obj\Debug\FinalApp.Form1.resources
+c:\users\yash\documents\visual studio 2012\Projects\FinalApp\FinalApp\obj\Debug\FinalApp.Properties.Resources.resources
+c:\users\yash\documents\visual studio 2012\Projects\FinalApp\FinalApp\obj\Debug\FinalApp.csproj.GenerateResource.Cache
+c:\users\yash\documents\visual studio 2012\Projects\FinalApp\FinalApp\obj\Debug\FinalApp.exe
+c:\users\yash\documents\visual studio 2012\Projects\FinalApp\FinalApp\obj\Debug\FinalApp.pdb
+C:\Users\Yash\Documents\Visual Studio 2012\Projects\FinalApp\FinalApp\obj\Debug\FinalApp.Form2.resources
